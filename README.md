@@ -9,3 +9,6 @@ As I computer scientist I work to create solutions that are both intuitive and e
 
 ### How do I approach a problem as a computer scientist?
 My first step is to gather data on the problem and understand it better. Once I have a better understanding of the problem, I try to understand the final solution that I am trying to find. Doing so allows me to gain insights into what potential steps I would need to take to reach that solution. Finally, I plan out the steps I am going to take to reach the solution and the research I will need to do.
+
+### What are my ethical responsibilities to the end user and the organization?
+The ethical responsibilities that we have to the end users and the organizations are that we need to ensure their privacy and confidentiality are not affected. We would need to implement the appropriate security measures to only collect or store data with consent. We would need to develop and maintain a secure system that will protect them from cyber threats, data breaches, and unauthorized access. To the organizations, we would need to be honest about our capabilities, and qualifications, while informing them of any potential risks or limitations of the code we developed. We need to work effectively with other team members while being open and accepting of different social backgrounds, ideas, and beliefs.
